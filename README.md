@@ -16,7 +16,7 @@ Students will create an html page and learn to use forms in HTML.
 
 <h5> Target Audience : </h5>
 
-Students of Information Technology Dept. in Engineering
+Students of IT, CSE, CSIT annd CO Dept. in Engineering
 
 <h5> Course Alignment : </h5>
 
@@ -32,13 +32,7 @@ AKTU, Lucknow
 <b> Email id|     <b> sakshi@kiet.edu
 <b> Department | Information Technology
 
-#### Mentor Details
 
-<b>Mentored by | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
-:--|:--|
-<b> Institute | <b> Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department
 
 #### Contributors List
 
